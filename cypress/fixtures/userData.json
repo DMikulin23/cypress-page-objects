@@ -1,0 +1,11 @@
+{
+    "userName": {
+        "lockedUser":"locked_out_user",
+        "correctUser":"standard_user",
+        "incorrectUser":"test1"
+    },
+    "password":{
+        "correctPassword":"secret_sauce",
+        "incorrectPassword":"test"
+    }
+}
